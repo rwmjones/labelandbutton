@@ -1,4 +1,8 @@
 *~
 *.o
+*.obj
+*.dll
 
 fltk/fltk-linux
+wxwidgets/wx-linux
+wxwidgets/wx-windows.exe

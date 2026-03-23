@@ -29,3 +29,11 @@ Optional:
 ## fltk
 
 Rejected, doesn't use the native look and feel.
+
+## wxWidgets
+
+Native look and feel.  Cross-platform just worked.
+
+Dynamic version required quite a number of libraries on Windows.
+
+I didn't manage to compile a static version.
