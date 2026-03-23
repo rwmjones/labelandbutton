@@ -44,3 +44,11 @@ Native look and feel.  Cross-platform just worked.
 Dynamic version required quite a number of libraries on Windows.
 
 I didn't manage to compile a static version.
+
+## To do
+
+* Lazarus (a free Delphi clone)
+
+* Gtk
+
+* MFC
