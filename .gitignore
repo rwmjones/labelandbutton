@@ -4,5 +4,7 @@
 *.dll
 
 fltk/fltk-linux
+qt/.qmake.stash
+qt/qt-linux
 wxwidgets/wx-linux
 wxwidgets/wx-windows.exe

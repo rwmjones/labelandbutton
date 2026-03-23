@@ -30,6 +30,13 @@ Optional:
 
 Rejected, doesn't use the native look and feel.
 
+## Qt6
+
+Not simple to get Linux working, but did work in the end.
+
+I could NOT get Windows cross-compilation working, and didn't feel
+like installing the entire Qt toolchain on Windows.
+
 ## wxWidgets
 
 Native look and feel.  Cross-platform just worked.
