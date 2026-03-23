@@ -12,6 +12,8 @@ Requirements:
 * Must build to a single Windows executable (`.exe`), with no runtime,
   DLLs, language, installer etc.
 
+* Must look and behave like a native Windows application.
+
 * Works with Windows >= 7, 32 and 64 bit, and likely to continue to
   work in future.
 
@@ -23,3 +25,7 @@ Optional:
 
 * Lots of information available on the web or in books.  No obscure
   languages or frameworks.
+
+## fltk
+
+Rejected, doesn't use the native look and feel.

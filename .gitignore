@@ -1,1 +1,4 @@
 *~
+*.o
+
+fltk/fltk-linux
