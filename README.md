@@ -23,8 +23,9 @@ Optional:
 
 * Ideally can be cross-compiled from Linux.
 
-* Lots of information available on the web or in books.  No obscure
-  languages or frameworks.
+* Lots of information available on the web or in books.
+
+* No obscure languages or frameworks.
 
 ## fltk
 
