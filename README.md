@@ -45,10 +45,18 @@ Dynamic version required quite a number of libraries on Windows.
 
 I didn't manage to compile a static version.
 
+## MFC
+
+It's not possible to build these using MinGW, as the headers and DLLs
+necessary (eg. afxwin.h) are simply not present.
+https://stackoverflow.com/questions/57875554/compiling-code-using-mfc-or-atl-headers-with-mingw-on-windows
+
+Also, no cross-platform (except to use Wine, but that is less than
+ideal).  This would mean we would need separate UI code bases for
+Windows and Linux.
+
 ## To do
 
 * Lazarus (a free Delphi clone)
 
 * Gtk
-
-* MFC
