@@ -55,6 +55,16 @@ Also, no cross-platform (except to use Wine, but that is less than
 ideal).  This would mean we would need separate UI code bases for
 Windows and Linux.
 
+## .Net
+
+Can apparently build a single static executable, but because it
+bundles everything these are huge.  Also this option is Windows-only,
+and requires C# ("no obscure languages for frameworks").
+
+## imgui
+
+Terrible, non-native UIs.
+
 ## To do
 
 * Lazarus (a free Delphi clone)
